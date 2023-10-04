@@ -1,3 +1,6 @@
+#Solicite ao usuário diversos números inteiros (até que seja digitado o número zero). 
+#Armazene os números pares em um arquivo e os números impares em outro arquivo.
+
 arquivo1 = open("numPar.txt","w")
 arquivo2 = open("numImpar.txt","w")
 

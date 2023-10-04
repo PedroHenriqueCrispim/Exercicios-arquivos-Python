@@ -1,3 +1,6 @@
+#Abra o arquivo de texto criado no exercício anterior(ex1).
+#Leia o conteúdo do arquivo e mostre o somatório de todos os números contidos no arquivo.
+
 arquivo = open("numeros.txt", "r")
 
 try:
