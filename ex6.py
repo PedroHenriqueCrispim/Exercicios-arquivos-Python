@@ -19,3 +19,5 @@ for i in linhas:
 
 for nome, media in notas_alunos.items():
     print(f'{nome}: Média = {media}')
+
+    
